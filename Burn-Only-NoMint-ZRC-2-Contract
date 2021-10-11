@@ -110,7 +110,7 @@ procedure IsOwner()
 end
 
 (* The Burner is named MinterBurner, since the code is taken from *)
-(* a contract with mint & burn functions, but the mint funcitons were deleted*)
+(* a contract with mint & burn functions, but the mint functions were deleted*)
 procedure IsMinterBurner(address: ByStr20)
   current_minterburner <- minterburner;
   is_minterburner = builtin eq current_minterburner address;
