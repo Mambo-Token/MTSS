@@ -4,9 +4,11 @@ Mambo Token Securiity Standard MTSS
 https://mambo.li/mambo-infos/mtss
 
 Why this Mambo Token Security Standard?
-Read why we needed to make the following security rules for our Stabelcoins an Mambo Token and the end of this page.
+Read why we needed to make the following security rules for our Stabelcoins an Mambo Token at the end of this page.
 
 We hope this standard will become common use and minimal security standard for all tokens which claims to be decentralized.
+MTSS is about burning and minting, other aspects of a fungible token contract code or functionality are not discussed.
+There maybe use cases where it makes sense to Not apply the mtts standard. It is possible that exactly the function to burn tokens out of wallets or mint into wallets is wished and anybody knows about it - specially in some kind of games imaginable. But for most tokens this is just a no go.
 
 Mambo.li wrote a token security standard MTSS for secure minting and burning for decentralized Stablecoins.
 It contains minimum 5 points
