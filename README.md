@@ -1,5 +1,5 @@
 # MTSS
-Mambo Token Securiity Standard MTSS
+Mambo Token Security Standard MTSS
 
 https://mambo.li/mambo-infos/mtss
 
