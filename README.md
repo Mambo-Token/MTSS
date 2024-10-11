@@ -3,10 +3,10 @@ Mambo Token Security Standard MTSS
 (This refers to our activity in zilliqa 2021-June 2024 only. 
 We will define new standards for our activity in Kaspa KRC-20)
 
-https://mambo.li/mambo-infos/mtss
+https://mambo.li/archive/mambo-infos/mtss/
 
 Why this Mambo Token Security Standard?
-Read why we needed to make the following security rules for our Stabelcoins an Mambo Token at the end of this page.
+Read why we needed to make the following security rules for our Stabelcoins and Mambo Token at the end of this page.
 
 We hope this standard will become common use and minimal security standard for all tokens which claims to be decentralized.
 MTSS is about burning and minting, other aspects of a fungible token contract code or functionality are not discussed.
@@ -88,7 +88,7 @@ All mStabelcoins will fulfill the MSST, if not otherwise declared because of a s
 Why this Mambo Token Security Standard?
 During the developpment of our stablecoins we discovered to our surprise, that some good known tokens had a burning funcitonality, that allows the token owner to burn tokens out of any wallet.
 This is diametral against any decentralized secure network, community or philosophy.
-XSGD has it conciously in the code and names it "lawenforcementWipeBurn". This shows the typical presumptuousness of the totalitarian minded government controll freaks.
+XSGD has it conciously in the code and names it "lawenforcementWipeBurn". This shows the typical presumptuousness of the totalitarian minded government control freaks.
 They just think they can steal others wealth out of their wallet, as they do with more and more unjustified taxes. To make such a lawenforcementWipeBurn they only need a corrupt judge to do so. Contemporary history shows, that they are mostly corrupt, justifiying rigged elections, child abuse, child murder, etc....
 This is the reason, WE CANNOT TRUST fully XSGD as we cannot trust in any fiat or government (of the deliberate great reset destruction of society) and we will use xsgd only for trading, but not as collateral, or only at a minor percentage. We hope SGD is among the better fiat currencies, but we dont have any knowledge about local politics there.
 And WE CANNOT TRUST in any other Token with such a dangerous burning function, even if they issued it unconsious of this possibilty.
