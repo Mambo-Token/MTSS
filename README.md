@@ -1,5 +1,7 @@
 # MTSS
 Mambo Token Security Standard MTSS
+(This refers to our activity in zilliqa 2021-June 2024 only. 
+We will define new standards for our activity in Kaspa KRC-20)
 
 https://mambo.li/mambo-infos/mtss
 
